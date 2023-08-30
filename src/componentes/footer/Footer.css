@@ -1,0 +1,30 @@
+footer {
+    background-color: darkgray;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: fantasy;
+  }
+ 
+  .footer-section {
+    flex: 1;
+    margin-right: 20px;
+    margin-left: 200px;
+  }
+  .Contato:hover{
+    text-decoration: underline;
+  }
+ 
+  ul {
+    list-style: none;
+    padding: 0;
+    font-family: fantasy;
+  }
+ 
+  a {
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+   
+  }

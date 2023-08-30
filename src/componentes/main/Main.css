@@ -1,0 +1,27 @@
+main{
+    background-color: rgb(83, 83, 83);
+}
+.panela{
+    background-color: rgb(83,83,83);
+    
+}
+.miojo{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    width: 250px;
+    height: 250px;
+    border: solid 0.5px black;
+}
+.jugos{
+    display: flex;
+    justify-content: space-around;
+}
+.jj{
+    max-width: 200px;
+}
