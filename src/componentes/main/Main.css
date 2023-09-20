@@ -1,27 +1,25 @@
 main{
     background-color: rgb(83, 83, 83);
 }
-.panela{
-    background-color: rgb(83,83,83);
-    
+.barrapesquisa{
+    height: 20px;
+    border: 1px solid #838383;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 1.4rem;
 }
-.miojo{
-    display: flex;
-    justify-content: center;
+.barrapesquisa:focus-visible{
+    outline: 1px solid rgba(83,83,83);
 }
-.img{
-    display: flex;
-    justify-content: center;
+.pesquisa{
+    padding: 30px;
+    background-color: #838383;
 }
-.img1{
-    width: 250px;
-    height: 250px;
-    border: solid 0.5px black;
+.projeto_content{
+  transition: background-color 0.5s ease, transform 0.5s ease;
+
+
 }
-.jugos{
-    display: flex;
-    justify-content: space-around;
-}
-.jj{
-    max-width: 200px;
+.projeto_content:hover{
+  background-color: #ff7300;
 }
