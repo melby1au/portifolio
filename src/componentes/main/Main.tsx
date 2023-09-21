@@ -1,5 +1,5 @@
 import './Main.css'
-import Projeto from "../projeto/projeto"
+import Projeto from "../projeto/Projeto"
 import { useState } from 'react';
 
 type ProjetoType = {
