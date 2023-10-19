@@ -1,0 +1,21 @@
+.contatos-container{
+    padding: 30px;
+    letter-spacing: 4px;
+    font-size: 15px;
+    background-color:  rgb(83, 83, 83);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+.contato{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    border-bottom: solid 2px white;
+    border-left: hidden;
+    border-right: hidden;
+    border-top: hidden ;
+
+}

@@ -1,5 +1,5 @@
-main{
-    background-color: rgb(83, 83, 83);
+.content-main{
+  background-color: #535353;
 }
 .barrapesquisa{
     height: 20px;
@@ -17,9 +17,7 @@ main{
 }
 .projeto_content{
   transition: background-color 0.5s ease, transform 0.5s ease;
-
-
 }
 .projeto_content:hover{
-  background-color: #ff7300;
+  background-color: whitesmoke;
 }
